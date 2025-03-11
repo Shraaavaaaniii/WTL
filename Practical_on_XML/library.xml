@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="library.xsl"?>
+<library>
+    <book>
+        <title category="CSE">Computer Networks</title>
+        <author>Andrew S. Tanenbaum</author>
+        <publisher>Pearson</publisher>
+        <price>150</price>
+    </book>
+    <book>
+        <title category="CSE">Operating System Concepts</title>
+        <author>Abraham Silberschatz</author>
+        <publisher>Wiley</publisher>
+        <price>530</price>
+    </book>
+    <book>
+        <title category="CSE">Introduction to Algorithms</title>
+        <author>Thomas H. Cormen</author>
+        <publisher>MIT Press</publisher>
+        <price>180</price>
+    </book>
+    <book>
+        <title category="AIML">Artificial Intelligence: A Modern Approach</title>
+        <author>Stuart Russell, Peter Norvig</author>
+        <publisher>Pearson</publisher>
+        <price>350</price>
+    </book>
+    <book>
+        <title category="AIML">Deep Learning</title>
+        <author>Ian Goodfellow, Yoshua Bengio</author>
+        <publisher>MIT Press</publisher>
+        <price>440</price>
+    </book>
+    <book>
+        <title category="AIML">Machine Learning</title>
+        <author>Tom M. Mitchell</author>
+        <publisher>McGraw-Hill</publisher>
+        <price>730</price>
+    </book>
+    <book>
+        <title category="DS">Data Science for Business</title>
+        <author>Foster Provost, Tom Fawcett</author>
+        <publisher>O'Reilly</publisher>
+        <price>330</price>
+    </book>
+    <book>
+        <title category="DS">Python for Data Analysis</title>
+        <author>Wes McKinney</author>
+        <publisher>O'Reilly</publisher>
+        <price>220</price>
+    </book>
+    <book>
+        <title category="DS">Practical Statistics for Data Scientists</title>
+        <author>Peter Bruce</author>
+        <publisher>O'Reilly</publisher>
+        <price>190</price>
+    </book>
+    <book>
+        <title category="MECH">Strength of Materials</title>
+        <author>R.K. Bansal</author>
+        <publisher>Laxmi Publications</publisher>
+        <price>500</price>
+    </book>
+    <book>
+        <title category="MECH">Engineering Thermodynamics</title>
+        <author>P.K. Nag</author>
+        <publisher>McGraw-Hill</publisher>
+        <price>300</price>
+    </book>
+    <book>
+        <title category="MECH">Manufacturing Engineering and Technology</title>
+        <author>Serope Kalpakjian</author>
+        <publisher>Pearson</publisher>
+        <price>100</price>
+    </book>
+    <book>
+        <title category="ENTC">Electronic Devices and Circuit Theory</title>
+        <author>Robert L. Boylestad</author>
+        <publisher>Pearson</publisher>
+        <price>550</price>
+    </book>
+    <book>
+        <title category="ENTC">Digital Signal Processing</title>
+        <author>John G. Proakis</author>
+        <publisher>Pearson</publisher>
+        <price>480</price>
+    </book>
+    <book>
+        <title category="ENTC">Communication Systems</title>
+        <author>Simon Haykin</author>
+        <publisher>Wiley</publisher>
+        <price>760</price>
+    </book>
+    <book>
+        <title category="CSE">Cloud Computing: Concepts, Technology and Architecture</title>
+        <author>Thomas Erl</author>
+        <publisher>Prentice Hall</publisher>
+        <price>630</price>
+    </book>
+    <book>
+        <title category="MECH">Robotics: Modelling, Planning and Control</title>
+        <author>Siciliano, Bruno</author>
+        <publisher>Springer</publisher>
+        <price>830</price>
+    </book>
+    <book>
+        <title category="AIML">Pattern Recognition and Machine Learning</title>
+        <author>Christopher Bishop</author>
+        <publisher>Springer</publisher>
+        <price>640</price>
+    </book>
+    <book>
+        <title category="AIML">Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow</title>
+        <author>Aurélien Géron</author>
+        <publisher>O'Reilly</publisher>
+        <price>250</price>
+    </book>
+    <book>
+        <title category="DS">Data Science from Scratch</title>
+        <author>Joel Grus</author>
+        <publisher>O'Reilly</publisher>
+        <price>700</price>
+    </book>
+</library>

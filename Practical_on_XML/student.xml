@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<Student>
+    <heading>Student Information</heading>
+    <TYA>
+        <header>Roll No.</header>
+        <header>Name</header>
+        <header>Address</header>
+        <header>Marks</header>
+    </TYA>
+    <TYA>
+        <RollNo>1</RollNo>
+        <Name>Shravani</Name>
+        <Address>Top</Address>
+        <Marks>80</Marks>
+    </TYA>
+    <TYA>
+        <RollNo>2</RollNo>
+        <Name>Sara</Name>
+        <Address>Kolhapur</Address>
+        <Marks>90</Marks>
+    </TYA>
+    <TYA>
+        <RollNo>3</RollNo>
+        <Name>Geeta</Name>
+        <Address>Sangli</Address>
+        <Marks>87</Marks>
+    </TYA>
+    <TYA>
+        <RollNo>4</RollNo>
+        <Name>Ganesh</Name>
+        <Address>Satara</Address>
+        <Marks>60</Marks>
+    </TYA>
+    <TYA>
+        <RollNo>5</RollNo>
+        <Name>Girish</Name>
+        <Address>Pune</Address>
+        <Marks>100</Marks>
+    </TYA>
+</Student>

@@ -1,0 +1,39 @@
+*{
+  text-align: justify;  
+  background-color: rgb(127, 255, 142);
+}
+
+label{
+    font-weight: bold;
+    font-size : 20px;
+    color: #ff00ff;
+}
+
+input{
+    width : 150px;
+    height: 20px;
+    margin-bottom: 10px;
+    background-color: white;
+    border-radius: 10px;
+}
+input[type="reset"],[type="submit"]{
+    width:100px;
+    font-size: 20px;
+    text-align:center;
+    background-color: red;
+    color:white;
+    font-weight: bold;
+    height: 30px;
+    border-radius: 10px;
+}
+input[type="radio"]{
+    font-size: 20px;
+    color: white;
+}
+select,textarea,option{
+    background-color: white;
+    font-size: 18px;
+}
+h2{
+    color:red;
+}

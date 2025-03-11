@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+}
+h1{
+    color:rgb(255,0,0); text-align:center;
+}
+table{
+    background-color:white;
+}
+th{
+    color:red; font-weight: bold; background-color: yellow;
+}
