@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="xpath_axes.xsl"?>
+
+<bookstore>
+    <book>
+        <title>The 5 AM club</title>
+        <author>Robin Sharma</author>
+        <price>400</price>
+    </book>
+    <book>
+        <title>Agnipankh</title>
+        <author>Dr. A. P. J. Abdul Kalam</author>
+        <price>900</price>
+    </book>
+    <book>
+        <title>Garud Zep</title>
+        <author>Vishwas Nagare Patil</author>
+        <price>700</price>
+    </book>
+</bookstore>

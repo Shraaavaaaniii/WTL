@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="xpath.xsl"?>
+<bookstore>
+    <book>
+        <title category="Cooking">"Good Vegetarian Recipes"</title>
+        <author>Emmy Tina</author>
+        <year>2010</year>
+        <price>300</price>
+    </book>
+    <book>
+        <title category="Cooking">"Italian Dishes Recipes"</title>
+        <author>Alice</author>
+        <year>2000</year>
+        <price>500</price>
+    </book>
+    <book>
+        <title category="Chidren">"Harry Potter"</title>
+        <author>Sudha Sharma</author>
+        <year>2019</year>
+        <price>600</price>
+    </book>
+    <book>
+        <title category="Cooking">"Panjabi Tadaka"</title>
+        <author>Masing Sodi</author>
+        <year>2009</year>
+        <price>500</price>
+    </book>
+    <book>
+        <title category="Cooking">"Bengoli Sweet Dishes"</title>
+        <author>Ravindra Chatopadhyay</author>
+        <year>2004</year>
+        <price>200</price>
+    </book>
+</bookstore>

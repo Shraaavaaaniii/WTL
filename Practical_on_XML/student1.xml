@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="stud1.xsl"?>
+<Student>
+    <TYA>
+        <RollNo>1</RollNo>
+        <Name>Kiran Lahane</Name>
+        <Address>Ashta</Address>
+        <Marks>74</Marks>
+    </TYA>
+    <TYA>
+        <RollNo>2</RollNo>
+        <Name>Komal Patil</Name>
+        <Address>Sindhudurg</Address>
+        <Marks>63</Marks>
+    </TYA>
+    <TYA>
+        <RollNo>3</RollNo>
+        <Name>Jay Patil</Name>
+        <Address>Mumbai</Address>
+        <Marks>87</Marks>
+    </TYA>
+    <TYA>
+        <RollNo>4</RollNo>
+        <Name>Nilam Khade</Name>
+        <Address>Satara</Address>
+        <Marks>55</Marks>
+    </TYA>
+    <TYA>
+        <RollNo>5</RollNo>
+        <Name>Sai Mohite</Name>
+        <Address>Mumbai</Address>
+        <Marks>46</Marks>
+    </TYA>
+    <TYA>
+        <RollNo>6</RollNo>
+        <Name>Divya Chavan</Name>
+        <Address>Peth Vadgaon</Address>
+        <Marks>84</Marks>
+    </TYA>
+    <TYA>
+        <RollNo>7</RollNo>
+        <Name>Tanu Mahajan</Name>
+        <Address>Pune</Address>
+        <Marks>57</Marks>
+    </TYA>
+    <TYA>
+        <RollNo>8</RollNo>
+        <Name>Radhika Patil</Name>
+        <Address>Sangi</Address>
+        <Marks>94</Marks>
+    </TYA>
+    <TYA>
+        <RollNo>9</RollNo>
+        <Name>Jay Sharma</Name>
+        <Address>Pune</Address>
+        <Marks>58</Marks>
+    </TYA>
+    <TYA>
+        <RollNo>10</RollNo>
+        <Name>Ganesh Bhosale</Name>
+        <Address>Kolhapur</Address>
+        <Marks>60</Marks>
+    </TYA>
+</Student>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="books.xsl"?>
+
+<books>
+  <book>
+    <title category="Personal">The 5 AM club</title>
+    <author>Robin Sharma</author>
+    <price>500</price>
+  </book>
+  <book>
+    <title category="Personal">Eka avliyacha prapanch</title>
+    <author>Anjli Thakur</author>
+    <price>400</price>
+  </book>
+</books>
